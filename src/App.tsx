@@ -1,47 +1,46 @@
-import React, { useContext, useEffect } from 'react';
-import { IntlProvider } from 'react-intl';
+import React, { useContext, useEffect } from "react";
+import { IntlProvider } from "react-intl";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Swal from 'sweetalert2';
-import Header from './components/organisms/Header';
-import Footer from './components/atoms/Footer';
-import MainPage from './components/pages/MainPage';
-import ResultPage from './components/pages/ResultPage';
-import { AnotherContext } from './contexts';
+import Swal from "sweetalert2";
+import Header from "./components/organisms/Header";
+import Footer from "./components/atoms/Footer";
+import MainPage from "./components/pages/MainPage";
+import ResultPage from "./components/pages/ResultPage";
+import { AnotherContext } from "./contexts";
 
 const announceHTML = `<div class="announce">
   JAPANESE 2.13.0 UPDATE<br/>
   <br/>
-  미유 ES 외 2캐릭 반영
-</div>`
+  미유 ES 외 2캐릭 반영1
+</div>`;
 
 function App() {
+  const announceViewed = Boolean(window.localStorage.getItem("a_v"));
 
-  const announceViewed = Boolean(window.localStorage.getItem("a_v"))
-
-  const { lang, result } = useContext(AnotherContext)
-  const message = require(`./language/${lang}.json`)
+  const { lang, result } = useContext(AnotherContext);
+  const message = require(`./language/${lang}.json`);
 
   useEffect(() => {
-    if(!announceViewed) {
-      window.localStorage.removeItem("a_v_2")
+    if (!announceViewed) {
+      window.localStorage.removeItem("a_v_2");
       Swal.fire({
-        title: 'Update - 22.04.13',
+        title: "Update - 22.04.13",
         html: announceHTML,
-        icon: 'success',
+        icon: "success"
       }).then(() => {
-        window.localStorage.setItem("a_v", "true")
-      })
+        window.localStorage.setItem("a_v", "true");
+      });
     }
-  }, [announceViewed])
+  }, [announceViewed]);
 
   return (
-    <IntlProvider messages={message} locale={lang} defaultLocale='ko'>
+    <IntlProvider messages={message} locale={lang} defaultLocale="ko">
       <Router basename="/anothercharcheck">
-        <Header/>
+        <Header />
         <Routes>
-          <Route path="/" element={result ? <ResultPage/> : <MainPage />} />
+          <Route path="/" element={result ? <ResultPage /> : <MainPage />} />
         </Routes>
-        <Footer/>
+        <Footer />
       </Router>
     </IntlProvider>
   );
