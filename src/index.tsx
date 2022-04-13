@@ -1,13 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import 'antd/dist/antd.css';
-import App from './App';
-import { AnotherProvider } from './contexts';
-import ReactGA from 'react-ga';
-
-ReactGA.initialize('UA-190586417-2');
-ReactGA.pageview(window.location.pathname + window.location.search);
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import "antd/dist/antd.css";
+import App from "./App";
+import { AnotherProvider } from "./contexts";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,5 +11,5 @@ ReactDOM.render(
       <App />
     </AnotherProvider>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
