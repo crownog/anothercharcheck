@@ -5,7 +5,7 @@
         "style": "4.5",
         "category": 38,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "first": true,
         "jonly": false,
         "change": [2,3]
@@ -16,7 +16,7 @@
         "style": "ns",
         "category": 38,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "from": [1],
         "jonly": false,
         "change": [3]
@@ -27,7 +27,7 @@
         "style": "as",
         "category": 38,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [2]
     },
@@ -37,7 +37,7 @@
         "style": "4.5",
         "category": 38,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "first": true,
         "jonly": false,
         "change": [6,7]
@@ -49,7 +49,7 @@
         "category": 38,
         "from": [5],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [7]
     },
@@ -59,7 +59,7 @@
         "style": "as",
         "category": 38,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [6]
     },
@@ -70,7 +70,7 @@
         "category": 28,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [9,10]
     },
@@ -81,7 +81,7 @@
         "category": 28,
         "from": [8],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [10]
     },
@@ -91,7 +91,7 @@
         "style": "as",
         "category": 28,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [9]
     },
@@ -102,7 +102,7 @@
         "category": 48,
         "first": true,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [12,13,285]
     },
@@ -113,7 +113,7 @@
         "category": 48,
         "from": [11],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [13,285]
     },
@@ -123,7 +123,7 @@
         "style": "as",
         "category": 48,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [12]
     },
@@ -134,7 +134,7 @@
         "category": 18,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [15]
     },
@@ -145,7 +145,7 @@
         "category": 18,
         "from": [14],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -156,7 +156,7 @@
         "category": 18,
         "first": true,
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [18,19]
     },
@@ -166,7 +166,7 @@
         "style": "ns",
         "category": 18,
         "from": [17],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [19]
     },
@@ -177,7 +177,7 @@
         "category": 18,
         "from": [17,18],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [18]
     },
@@ -188,7 +188,7 @@
         "first": true,
         "category": 28,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [23,24]
     },
@@ -199,7 +199,7 @@
         "category": 28,
         "from": [22],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [24]
     },
@@ -209,7 +209,7 @@
         "style": "as",
         "category": 28,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [23]
     },
@@ -220,7 +220,7 @@
         "first": true,
         "category": 38,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [26]
     },
@@ -231,7 +231,7 @@
         "category": 38,
         "from": [25],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -242,7 +242,7 @@
         "category": 18,
         "free": false,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [30,31]
     },
@@ -253,7 +253,7 @@
         "category": 18,
         "from": [29],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [31]
     },
@@ -263,7 +263,7 @@
         "style": "as",
         "category": 18,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [30]
     },
@@ -274,7 +274,7 @@
         "category": 48,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [33]
     },
@@ -284,7 +284,7 @@
         "style": "as",
         "category": 48,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -295,7 +295,7 @@
         "first": true,
         "category": 28,
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [35]
     },
@@ -306,7 +306,7 @@
         "category": 28,
         "from": [34],
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -317,7 +317,7 @@
         "first": true,
         "category": 48,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [38,39]
     },
@@ -328,7 +328,7 @@
         "category": 48,
         "from": [37],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [39]
     },
@@ -338,7 +338,7 @@
         "style": "as",
         "category": 48,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [38]
     },
@@ -349,7 +349,7 @@
         "first": true,
         "category": 28,
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [41]
     },
@@ -360,7 +360,7 @@
         "category": 28,
         "from": [40],
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -371,7 +371,7 @@
         "first": true,
         "category": 18,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [43,44]
     },
@@ -382,7 +382,7 @@
         "category": 18,
         "from": [42],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [44]
     },
@@ -392,7 +392,7 @@
         "style": "as",
         "category": 18,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [43]
     },
@@ -403,7 +403,7 @@
         "first": true,
         "category": 38,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [46,47]
     },
@@ -414,7 +414,7 @@
         "category": 38,
         "from": [45],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [47]
     },
@@ -424,7 +424,7 @@
         "style": "as",
         "category": 38,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [46]
     },
@@ -435,7 +435,7 @@
         "first": true,
         "category": 58,
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [49,50]
     },
@@ -446,7 +446,7 @@
         "category": 58,
         "from": [48],
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [50]
     },
@@ -457,7 +457,7 @@
         "category": 58,
         "from": [48,49],
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [49]
     },
@@ -468,7 +468,7 @@
         "first": true,
         "category": 21,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [52,53]
     },
@@ -479,7 +479,7 @@
         "category": 21,
         "free": false,
         "from": [51],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [53]
     },
@@ -489,7 +489,7 @@
         "style": "as",
         "category": 21,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [52]
     },
@@ -500,7 +500,7 @@
         "category": 31,
         "free": false,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [56]
     },
@@ -510,7 +510,7 @@
         "style": "as",
         "category": 31,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -521,7 +521,7 @@
         "category": 11,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [58,59,300]
     },
@@ -532,7 +532,7 @@
         "category": 11,
         "from": [57],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [59,300]
     },
@@ -542,7 +542,7 @@
         "style": "as",
         "category": 11,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [58,300]
     },
@@ -553,7 +553,7 @@
         "category": 41,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [61]
     },
@@ -564,7 +564,7 @@
         "category": 41,
         "from": [60],
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -575,7 +575,7 @@
         "category": 21,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [64,65]
     },
@@ -586,7 +586,7 @@
         "category": 21,
         "from": [63],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [65]
     },
@@ -596,7 +596,7 @@
         "style": "as",
         "category": 21,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [64]
     },
@@ -607,7 +607,7 @@
         "category": 31,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [67,68]
     },
@@ -618,7 +618,7 @@
         "category": 31,
         "from": [66],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [68]
     },
@@ -628,7 +628,7 @@
         "style": "as",
         "category": 31,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [67]
     },
@@ -639,7 +639,7 @@
         "category": 31,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [70]
     },
@@ -650,7 +650,7 @@
         "category": 31,
         "from": [69],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -661,7 +661,7 @@
         "category": 11,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [72]
     },
@@ -672,7 +672,7 @@
         "category": 11,
         "from": [71],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -683,7 +683,7 @@
         "category": 51,
         "free": false,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [74,75]
     },
@@ -694,7 +694,7 @@
         "category": 51,
         "from": [73],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [75]
     },
@@ -704,7 +704,7 @@
         "style": "as",
         "category": 51,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [74]
     },
@@ -715,7 +715,7 @@
         "category": 32,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [77]
     },
@@ -726,7 +726,7 @@
         "from": [76],
         "category": 32,
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -737,7 +737,7 @@
         "category": 22,
         "free": false,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [79]
     },
@@ -747,7 +747,7 @@
         "style": "as",
         "category": 22,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -758,7 +758,7 @@
         "category": 12,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [81,82]
     },
@@ -769,7 +769,7 @@
         "category": 12,
         "from": [80],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [82]
     },
@@ -779,7 +779,7 @@
         "style": "as",
         "category": 12,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [81]
     },
@@ -789,7 +789,7 @@
         "style": "4.5",
         "category": 12,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [85]
@@ -800,7 +800,7 @@
         "style": "as",
         "category": 12,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -810,7 +810,7 @@
         "style": "4.5",
         "category": 32,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [87,88,89,107]
@@ -822,7 +822,7 @@
         "from": [86],
         "category": 32,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [88,89,107]
     },
@@ -832,7 +832,7 @@
         "style": "as",
         "category": 32,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [87,89]
     },
@@ -842,7 +842,7 @@
         "style": "es",
         "category": 51,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "change": [87,88]
     },
     {
@@ -851,7 +851,7 @@
         "style": "4.5",
         "category": 12,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [91,92,93]
@@ -863,7 +863,7 @@
         "category": 12,
         "from": [90],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [92,93]
     },
@@ -873,7 +873,7 @@
         "style": "as",
         "category": 12,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [91,93]
     },
@@ -883,7 +883,7 @@
         "style": "es",
         "category": 35,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [91,92]
     },
@@ -893,7 +893,7 @@
         "style": "4.5",
         "category": 42,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [95,96]
@@ -905,7 +905,7 @@
         "category": 42,
         "from": [94],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [96]
     },
@@ -915,7 +915,7 @@
         "style": "as",
         "category": 42,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [95]
     },
@@ -925,7 +925,7 @@
         "style": "4.5",
         "category": 22,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [98,99]
@@ -937,7 +937,7 @@
         "category": 22,
         "from": [97],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [99]
     },
@@ -947,7 +947,7 @@
         "style": "as",
         "category": 22,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [98]
     },
@@ -957,7 +957,7 @@
         "style": "4.5",
         "category": 52,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [101,102]
@@ -969,7 +969,7 @@
         "category": 52,
         "from": [100],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [102]
     },
@@ -979,7 +979,7 @@
         "style": "as",
         "category": 52,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [101]
     },
@@ -989,7 +989,7 @@
         "style": "4.5",
         "category": 32,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [104]
@@ -1001,7 +1001,7 @@
         "category": 32,
         "from": [103],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -1011,7 +1011,7 @@
         "style": "4.5",
         "category": 52,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [106]
@@ -1023,7 +1023,7 @@
         "from": [105],
         "category": 52,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -1033,7 +1033,7 @@
         "style": "ns",
         "category": 52,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "first": true,
         "change": [87]
     },
@@ -1043,7 +1043,7 @@
         "style": "4.5",
         "category": 43,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [116,117,118]
@@ -1055,7 +1055,7 @@
         "category": 43,
         "from": [115],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [117,118]
     },
@@ -1065,7 +1065,7 @@
         "style": "as",
         "category": 43,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [116,118]
     },
@@ -1075,7 +1075,7 @@
         "style": "es",
         "category": 58,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [116,117]
     },
@@ -1085,7 +1085,7 @@
         "style": "4.5",
         "category": 13,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [121,122]
@@ -1097,7 +1097,7 @@
         "category": 13,
         "from": [120],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [122]
     },
@@ -1107,7 +1107,7 @@
         "style": "as",
         "category": 13,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [121]
     },
@@ -1117,7 +1117,7 @@
         "style": "4.5",
         "category": 33,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [124,125]
@@ -1129,7 +1129,7 @@
         "category": 33,
         "from": [123],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [125]
     },
@@ -1139,7 +1139,7 @@
         "style": "as",
         "category": 33,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [124]
     },
@@ -1149,7 +1149,7 @@
         "style": "4.5",
         "category": 23,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [127,296]
@@ -1161,7 +1161,7 @@
         "category": 23,
         "from": [126],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [296]
     },
@@ -1171,7 +1171,7 @@
         "style": "4.5",
         "category": 33,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [129,130]
@@ -1183,7 +1183,7 @@
         "category": 33,
         "from": [128],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [130]
     },
@@ -1193,7 +1193,7 @@
         "style": "as",
         "category": 33,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [129]
     },
@@ -1203,7 +1203,7 @@
         "style": "4.5",
         "category": 23,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [132,133]
@@ -1215,7 +1215,7 @@
         "category": 23,
         "from": [131],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [133]
     },
@@ -1225,7 +1225,7 @@
         "style": "as",
         "category": 23,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "change": [132]
     },
     {
@@ -1234,7 +1234,7 @@
         "style": "4.5",
         "category": 43,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [135]
@@ -1246,7 +1246,7 @@
         "category": 43,
         "from": [134],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1256,7 +1256,7 @@
         "style": "ns",
         "category": 33,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "first": true,
         "change": [140]
     },
@@ -1266,7 +1266,7 @@
         "style": "4.5",
         "category": 34,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [136, 140, 141, 288]
@@ -1278,7 +1278,7 @@
         "category": 34,
         "from": [139],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [136, 141, 288]
     },
@@ -1288,7 +1288,7 @@
         "style": "as",
         "category": 34,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [140, 288]
     },
@@ -1298,7 +1298,7 @@
         "style": "4.5",
         "category": 24,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [144]
@@ -1309,7 +1309,7 @@
         "style": "as",
         "category": 24,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1319,7 +1319,7 @@
         "style": "4.5",
         "category": 14,
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [146]
@@ -1331,7 +1331,7 @@
         "category": 14,
         "from": [145],
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -1341,7 +1341,7 @@
         "style": "4.5",
         "category": 24,
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [148]
@@ -1353,7 +1353,7 @@
         "category": 24,
         "from": [147],
         "free": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -1363,7 +1363,7 @@
         "style": "4.5",
         "category": 14,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [150,151]
@@ -1375,7 +1375,7 @@
         "category": 14,
         "from": [149],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [151]
     },
@@ -1385,7 +1385,7 @@
         "style": "as",
         "category": 14,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [150]
     },
@@ -1395,7 +1395,7 @@
         "style": "4.5",
         "category": 44,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [153,154]
@@ -1407,7 +1407,7 @@
         "category": 44,
         "from": [152],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [154]
     },
@@ -1417,7 +1417,7 @@
         "style": "as",
         "category": 44,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [153]
     },
@@ -1427,7 +1427,7 @@
         "style": "4.5",
         "category": 24,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [156,157]
@@ -1439,7 +1439,7 @@
         "category": 24,
         "from": [155],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [157]
     },
@@ -1449,7 +1449,7 @@
         "style": "as",
         "category": 24,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [156]
     },
@@ -1459,7 +1459,7 @@
         "style": "4.5",
         "category": 44,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [159,160]
@@ -1471,7 +1471,7 @@
         "from": [158],
         "category": 44,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [160]
     },
@@ -1481,7 +1481,7 @@
         "style": "as",
         "category": 44,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [159]
     },
@@ -1491,7 +1491,7 @@
         "style": "4.5",
         "category": 54,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [162,295]
@@ -1503,7 +1503,7 @@
         "category": 54,
         "from": [161],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [295]
     },
@@ -1513,7 +1513,7 @@
         "style": "4.5",
         "category": 54,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [164]
@@ -1525,7 +1525,7 @@
         "category": 54,
         "from": [163],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1535,7 +1535,7 @@
         "style": "4.5",
         "category": 34,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [166]
@@ -1547,7 +1547,7 @@
         "category": 34,
         "from": [165],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1557,7 +1557,7 @@
         "style": "4.5",
         "category": 45,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [170,171]
@@ -1569,7 +1569,7 @@
         "from": [169],
         "category": 45,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [171]
     },
@@ -1579,7 +1579,7 @@
         "style": "as",
         "category": 45,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [170]
     },
@@ -1589,7 +1589,7 @@
         "style": "4.5",
         "category": 25,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [176,177]
@@ -1601,7 +1601,7 @@
         "category": 25,
         "from": [175],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [177]
     },
@@ -1611,7 +1611,7 @@
         "style": "as",
         "category": 25,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [176]
     },
@@ -1621,7 +1621,7 @@
         "style": "4.5",
         "category": 35,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [180,181]
@@ -1633,7 +1633,7 @@
         "category": 35,
         "from": [179],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [181]
     },
@@ -1643,7 +1643,7 @@
         "style": "as",
         "category": 35,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [180]
     },
@@ -1653,7 +1653,7 @@
         "style": "4.5",
         "category": 15,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [183,184]
@@ -1665,7 +1665,7 @@
         "category": 15,
         "from": [182],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [184]
     },
@@ -1675,7 +1675,7 @@
         "style": "as",
         "category": 15,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [183]
     },
@@ -1685,7 +1685,7 @@
         "style": "ns",
         "category": 45,
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": []
@@ -1696,7 +1696,7 @@
         "style": "4.5",
         "category": 45,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [187, 286]
@@ -1708,7 +1708,7 @@
         "from": [186],
         "category": 45,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [286]
     },
@@ -1718,7 +1718,7 @@
         "style": "4.5",
         "category": 55,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [189,190]
@@ -1730,7 +1730,7 @@
         "category": 55,
         "from": [188],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [190]
     },
@@ -1740,7 +1740,7 @@
         "style": "as",
         "category": 55,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "change": [189]
     },
     {
@@ -1749,7 +1749,7 @@
         "style": "4.5",
         "category": 25,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [192]
@@ -1761,7 +1761,7 @@
         "category": 25,
         "from": [191],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1771,7 +1771,7 @@
         "style": "4.5",
         "category": 15,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [194]
@@ -1783,7 +1783,7 @@
         "category": 15,
         "from": [193],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1793,7 +1793,7 @@
         "style": "4.5",
         "category": 46,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [197,198]
@@ -1805,7 +1805,7 @@
         "category": 46,
         "from": [196],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [198]
     },
@@ -1815,7 +1815,7 @@
         "style": "as",
         "category": 46,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [197]
     },
@@ -1825,7 +1825,7 @@
         "style": "4.5",
         "category": 46,
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [204]
@@ -1837,7 +1837,7 @@
         "category": 46,
         "from": [203],
         "free": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1847,7 +1847,7 @@
         "style": "4.5",
         "category": 36,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [206,207]
@@ -1859,7 +1859,7 @@
         "category": 36,
         "from": [205],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [207]
     },
@@ -1869,7 +1869,7 @@
         "style": "as",
         "category": 36,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [206]
     },
@@ -1879,7 +1879,7 @@
         "style": "4.5",
         "category": 26,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [209, 216]
@@ -1891,7 +1891,7 @@
         "category": 26,
         "from": [208],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [216]
     },
@@ -1901,7 +1901,7 @@
         "style": "4.5",
         "category": 46,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [211, 212]
@@ -1913,7 +1913,7 @@
         "category": 46,
         "from": [210],
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [212]
     },
@@ -1923,7 +1923,7 @@
         "style": "as",
         "category": 46,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [211]
     },
@@ -1933,7 +1933,7 @@
         "style": "4.5",
         "category": 16,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [214]
@@ -1944,7 +1944,7 @@
         "style": "ns",
         "category": 16,
         "from": [213],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -1954,7 +1954,7 @@
         "style": "4.5",
         "category": 16,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [278, 215]
@@ -1966,7 +1966,7 @@
         "category": 16,
         "from": [277],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [215]
     },
@@ -1976,7 +1976,7 @@
         "style": "as",
         "category": 16,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [278]
     },
@@ -1986,7 +1986,7 @@
         "style": "ns",
         "category": 56,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "first": true,
         "change": [209]
     },
@@ -1996,7 +1996,7 @@
         "style": "4.5",
         "category": 17,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [218]
@@ -2007,7 +2007,7 @@
         "style": "ns",
         "category": 17,
         "from": [217],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2017,7 +2017,7 @@
         "style": "4.5",
         "category": 47,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [221]
@@ -2028,7 +2028,7 @@
         "style": "ns",
         "category": 47,
         "from": [220],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2038,7 +2038,7 @@
         "style": "4.5",
         "category": 17,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [223, 224]
@@ -2050,7 +2050,7 @@
         "category": 17,
         "from": [222],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [224]
     },
@@ -2060,7 +2060,7 @@
         "style": "as",
         "category": 17,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [223]
     },
@@ -2070,7 +2070,7 @@
         "style": "4.5",
         "category": 27,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [227, 228, 226]
@@ -2082,7 +2082,7 @@
         "category": 27,
         "from": [225],
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [227, 228]
     },
@@ -2092,7 +2092,7 @@
         "style": "as",
         "category": 27,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [226, 228]
     },
@@ -2102,7 +2102,7 @@
         "style": "es",
         "category": 56,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [226, 227]
     },
@@ -2112,7 +2112,7 @@
         "style": "4.5",
         "category": 37,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "first": true,
         "change": [231]
@@ -2123,7 +2123,7 @@
         "style": "ns",
         "category": 37,
         "from": [230],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2133,7 +2133,7 @@
         "style": "4.5",
         "category": 47,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [233, 234]
@@ -2144,7 +2144,7 @@
         "style": "ns",
         "category": 47,
         "from": [232],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [234]
     },
@@ -2153,7 +2153,7 @@
         "code": "101070091",
         "style": "as",
         "category": 47,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [233]
     },
@@ -2163,7 +2163,7 @@
         "style": "4.5",
         "category": 37,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "first": true,
         "change": [236]
@@ -2174,7 +2174,7 @@
         "style": "ns",
         "category": 37,
         "from": [235],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2184,7 +2184,7 @@
         "style": "4.5",
         "category": 47,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "first": true,
         "change": [238]
     },
@@ -2194,7 +2194,7 @@
         "style": "ns",
         "from": [237],
         "category": 47,
-        "sky": "shadow",
+        "sky": "blackLS",
         "change": []
     },
     {
@@ -2204,7 +2204,7 @@
         "category": 56,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2215,7 +2215,7 @@
         "category": 24,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [241]
     },
@@ -2225,7 +2225,7 @@
         "style": "ns",
         "category": 24,
         "from": [240],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2236,7 +2236,7 @@
         "category": 57,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2247,7 +2247,7 @@
         "category": 41,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2258,7 +2258,7 @@
         "category": 11,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [245]
     },
@@ -2268,7 +2268,7 @@
         "style": "ns",
         "category": 11,
         "from": [244],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2279,7 +2279,7 @@
         "category": 31,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2290,7 +2290,7 @@
         "category": 11,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [248]
     },
@@ -2300,7 +2300,7 @@
         "style": "ns",
         "category": 11,
         "from": [247],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2311,7 +2311,7 @@
         "category": 32,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [250]
     },
@@ -2321,7 +2321,7 @@
         "style": "ns",
         "category": 32,
         "from": [249],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2332,7 +2332,7 @@
         "category": 21,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [252]
     },
@@ -2342,7 +2342,7 @@
         "style": "ns",
         "category": 21,
         "from": [251],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2353,7 +2353,7 @@
         "category": 41,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [254]
     },
@@ -2363,7 +2363,7 @@
         "style": "ns",
         "category": 41,
         "from": [253],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2374,7 +2374,7 @@
         "category": 51,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [256]
     },
@@ -2384,7 +2384,7 @@
         "style": "ns",
         "category": 51,
         "from": [255],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2395,7 +2395,7 @@
         "category": 12,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [258]
     },
@@ -2405,7 +2405,7 @@
         "style": "ns",
         "category": 12,
         "from": [257],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2416,7 +2416,7 @@
         "category": 58,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [260]
     },
@@ -2426,7 +2426,7 @@
         "style": "ns",
         "category": 58,
         "from": [259],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2437,7 +2437,7 @@
         "category": 11,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [262]
     },
@@ -2447,7 +2447,7 @@
         "style": "ns",
         "category": 11,
         "from": [261],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2458,7 +2458,7 @@
         "category": 48,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [264]
     },
@@ -2468,7 +2468,7 @@
         "style": "ns",
         "category": 48,
         "from": [263],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2479,7 +2479,7 @@
         "category": 55,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2490,7 +2490,7 @@
         "category": 11,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [268]
     },
@@ -2500,7 +2500,7 @@
         "style": "ns",
         "category": 11,
         "from": [267],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2511,7 +2511,7 @@
         "category": 58,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [270]
     },
@@ -2521,7 +2521,7 @@
         "style": "ns",
         "category": 58,
         "from": [269],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2532,7 +2532,7 @@
         "category": 22,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [272]
     },
@@ -2542,7 +2542,7 @@
         "style": "ns",
         "category": 22,
         "from": [271],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2553,7 +2553,7 @@
         "category": 36,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [274]
     },
@@ -2563,7 +2563,7 @@
         "style": "ns",
         "category": 36,
         "from": [273],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2574,7 +2574,7 @@
         "category": 47,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": [276]
     },
@@ -2584,7 +2584,7 @@
         "style": "ns",
         "category": 47,
         "from": [275],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": false,
         "change": []
     },
@@ -2595,7 +2595,7 @@
         "category": 23,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": [280]
     },
@@ -2605,7 +2605,7 @@
         "style": "ns",
         "category": 23,
         "from": [279],
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": false,
         "change": []
     },
@@ -2616,7 +2616,7 @@
         "category": 28,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "change": [282]
     },
     {
@@ -2625,7 +2625,7 @@
         "style": "ns",
         "category": 28,
         "from": [281],
-        "sky": "light",
+        "sky": "lightLS",
         "change": []
     },
     {
@@ -2635,7 +2635,7 @@
         "category": 52,
         "free": true,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "change": [284]
     },
     {
@@ -2644,7 +2644,7 @@
         "style": "ns",
         "category": 52,
         "from": [283],
-        "sky": "light",
+        "sky": "lightLS",
         "change": []
     },
     {
@@ -2652,7 +2652,7 @@
         "code": "101040171",
         "style": "ns",
         "category": 44,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": true,
         "change": [12]
     },
@@ -2661,7 +2661,7 @@
         "code": "101050151",
         "style": "ns",
         "category": 55,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": true,
         "change": [187]
     },
@@ -2670,7 +2670,7 @@
         "code": "101000291",
         "style": "ns",
         "category": 28,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "free": true,
         "first": true,
@@ -2681,7 +2681,7 @@
         "code": "101040031",
         "style": "es",
         "category": 17,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "change": [140, 141]
     },
@@ -2690,7 +2690,7 @@
         "code": "101000281",
         "style": "4.5",
         "category": 58,
-        "sky": "light",
+        "sky": "lightLS",
         "first": true,
         "free": false,
         "change": [290]
@@ -2701,7 +2701,7 @@
         "style": "ns",
         "category": 58,
         "from": [289],
-        "sky": "light",
+        "sky": "lightLS",
         "free": false,
         "change": []
     },
@@ -2710,7 +2710,7 @@
         "code": "101000111",
         "style": "4.5",
         "category": 38,
-        "sky": "light",
+        "sky": "lightLS",
         "first": true,
         "jonly": true,
         "free": false,
@@ -2722,7 +2722,7 @@
         "style": "ns",
         "category": 38,
         "from": [291],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "free": false,
         "change": []
@@ -2732,7 +2732,7 @@
         "code": "101020041",
         "style": "4.5",
         "category": 42,
-        "sky": "light",
+        "sky": "lightLS",
         "first": true,
         "jonly": true,
         "free": false,
@@ -2743,7 +2743,7 @@
         "code": "101020041",
         "style": "as",
         "category": 42,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "free": false,
         "change": []
@@ -2754,7 +2754,7 @@
         "style": "as",
         "category": 54,
         "free": false,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": true,
         "change": [162]
     },
@@ -2764,7 +2764,7 @@
         "style": "as",
         "category": 23,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "change": [127]
     },
@@ -2775,7 +2775,7 @@
         "category": 37,
         "free": true,
         "first": true,
-        "sky": "shadow",
+        "sky": "blackLS",
         "jonly": true,
         "change": []
     },
@@ -2786,7 +2786,7 @@
         "category": 53,
         "free": false,
         "first": true,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "change": [299]
     },
@@ -2797,7 +2797,7 @@
         "category": 53,
         "free": false,
         "from": [298],
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "change": []
     },
@@ -2807,7 +2807,7 @@
         "style": "es",
         "category": 51,
         "free": false,
-        "sky": "light",
+        "sky": "lightLS",
         "jonly": true,
         "change": [127]
     }

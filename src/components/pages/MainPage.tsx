@@ -65,6 +65,7 @@ function MainPage() {
       }}
     >
       <h1>{Lightblack[Lblack].element}</h1>
+      
       <Row
         align="middle"
         justify="center"

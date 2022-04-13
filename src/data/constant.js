@@ -59,7 +59,7 @@ export const BUFF = [
 export const DEBUFF = [
   { id: 0, element: "DEBUFFType" },
   { id: 1, element: "poison" },
-  { id: 2, element: "blackLS" }
+  { id: 2, element: "pain" }
 ];
 
 export const WEAPONS = [
